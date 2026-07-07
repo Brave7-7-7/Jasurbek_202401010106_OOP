@@ -29,7 +29,7 @@ class AirConditioner extends Appliance {
 
     @Override
     public void operate() {
-        System.out.println("Cooling the room...");
+        System.out.println("Cooling the room");
     }
 }
 
@@ -41,6 +41,6 @@ class Refrigerator extends Appliance {
 
     @Override
     public void operate() {
-        System.out.println("Store food & beverages...");
+        System.out.println("Store food & beverages");
     }
 }
