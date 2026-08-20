@@ -11,4 +11,4 @@
 | Week6     | Inheritance with protected fields, super constructor |
 | Week7     | Abstraction: abstract class, abstract method, polymorphism |
 | Week8-9   | ArrayList, Scanner input, file I/O with BufferedWriter/BufferedReader |
-| Week10    |       |
+| Week10    | Swing GUI: JFrame, JLabel, JButton, ActionListener |
