@@ -9,10 +9,10 @@
 | Field | Detail |
 |---|---|
 | Course Name | Object-Oriented Programming |
-| Course Code | \<COURSE CODE\> |
-| Lecturer | \<LECTURER NAME\> |
-| Semester | \<SEMESTER\> |
-| Institution | \<INSTITUTION\> |
+| Course Code | BIT1123 |
+| Lecturer | NAZMIRUL IZZAD BIN NASIR |
+| Semester | 5 |
+| Institution |CITY UNIVERCITY MALAYSIA |
 
 ## Brief Course Description
 
