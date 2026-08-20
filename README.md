@@ -6,7 +6,7 @@
 | Week      | Topic |
 |-----------|-------|
 | Week1     | Java basics: variables, arithmetic, if/else |
-| Week2     |       |
+| Week2     | Classes, objects, constructors and methods |
 | Week3-4   |       |
 | Week6     |       |
 | Week7     |       |
