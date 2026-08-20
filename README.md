@@ -5,7 +5,7 @@
 
 | Week      | Topic |
 |-----------|-------|
-| Week1     |       |
+| Week1     | Java basics: variables, arithmetic, if/else |
 | Week2     |       |
 | Week3-4   |       |
 | Week6     |       |
